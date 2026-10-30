@@ -1,0 +1,6 @@
+- insert:
+    - id: dsh-anti-degrade-core
+      name: 'dsh-anti-degrade-core'
+      config:
+        enabled: true
+        tool: true
